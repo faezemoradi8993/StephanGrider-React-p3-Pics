@@ -1,3 +1,11 @@
+# StephanGrider-React-p3-Pics
+
+#یادگیری پروژه 3 از استفان گریدر
+
+# Developed and Designed by Faeze Moradi https://github.com/faezemoradi8993 
+
+#I learned this from stephen grider 's React-Redux course
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
